@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/visions-teen-residen-77989/sitemap.xml
+Sitemap: https://visions-teen-residen-77989.pages.dev/sitemap.xml
